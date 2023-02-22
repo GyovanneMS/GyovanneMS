@@ -15,11 +15,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/kotlin-plain.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node Js" alt="Node Js" width="40" height="40"/>
     
 </div>
  
   ![Snake animation](https://github.com/GyovanneMS/GyovanneMS/blob/output/github-contribution-grid-snake.svg)
- 
+  ![snake gif](https://github.com/GyovanneMS/GyovanneMS/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GyovanneMS&repo=GyovanneMS&theme=react)](https://github.com/GyovanneMS/GyovanneMS)
