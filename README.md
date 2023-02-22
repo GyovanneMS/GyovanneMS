@@ -17,13 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node Js" alt="Node Js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node Js" alt="Node Js" width="40" height="40"/>
-    
-</div>
+
  
   ![Snake animation](https://github.com/GyovanneMS/GyovanneMS/blob/output/github-contribution-grid-snake.svg)
   ![snake gif](https://github.com/GyovanneMS/GyovanneMS/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GyovanneMS&repo=GyovanneMS&theme=react)](https://github.com/GyovanneMS/GyovanneMS)
+  ![readme](https://github-readme-stats.vercel.app/api/pin/?username=GyovanneMS&repo=GyovanneMS&theme=react)](https://github.com/GyovanneMS/GyovanneMS)
