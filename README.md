@@ -20,5 +20,5 @@
 
  
   ![Snake animation](https://github.com/GyovanneMS/GyovanneMS/blob/output/github-contribution-grid-snake.svg)
-  ![snake gif](https://github.com/GyovanneMS/GyovanneMS/blob/output/github-contribution-grid-snake.svg)
-  ![readme](https://github-readme-stats.vercel.app/api/pin/?username=GyovanneMS&repo=GyovanneMS&theme=react)](https://github.com/GyovanneMS/GyovanneMS)
+        ![snake gif](https://github.com/GyovanneMS/GyovanneMS/blob/output/github-contribution-grid-snake.svg)
+
